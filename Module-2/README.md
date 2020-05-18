@@ -1,3 +1,3 @@
 # Coursera-Coding-Assignments
 
-https://github.com/dolphy17/Coursera-Coding-Assignments/tree/master/Module-1
+https://dolphy17.github.io/Coursera-Coding-Assignments/Module-2
